@@ -58,8 +58,16 @@ I'm a product engineer and founder from Kazakhstan who takes AI products from **
 
 <p align="center">
   <a href="https://github.com/baimukhanalan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://takhet.com"><img src="https://img.shields.io/badge/Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <!-- Add once confirmed: LinkedIn + Email badges -->
 </p>
+
+<!--
+  ⚠️  ШАБЛОН — ЗАПОЛНИТЬ ПОТОМ. Замени "#" на свои ссылки:
+      LinkedIn →  href="https://www.linkedin.com/in/ТВОЙ-ПРОФИЛЬ"
+      Email    →  href="mailto:ТВОЙ-EMAIL"
+      Website  →  сейчас ведёт на takhet.com — поменяй, если есть личный сайт/портфолио
+-->
 
 <p align="center"><sub>💼 Open to opportunities and collaborations.</sub></p>
