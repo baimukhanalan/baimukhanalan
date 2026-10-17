@@ -1,17 +1,12 @@
 <!-- baimukhanalan/baimukhanalan — profile README -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Alan%20Bai&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Product%20Engineer%20%26%20Founder&descAlignY=60&descSize=20&animation=fadeIn" alt="Alan Bai" />
-</p>
+<h1 align="center">Alan Bai</h1>
+<h3 align="center">AI Product Engineer &amp; Founder &nbsp;·&nbsp; Healthtech · Fintech · Careers · EdTech</h3>
 
 <p align="center">
   <a href="https://github.com/baimukhanalan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=640&lines=I+design+and+ship+full-stack+AI+products+end-to-end;Healthtech+%7C+Fintech+%7C+Careers+%7C+EdTech;Founder+of+Takhet%2B+%E2%80%94+AI+telemedicine+platform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=I+design+and+ship+full-stack+AI+products+end-to-end;Healthtech+%7C+Fintech+%7C+Careers+%7C+EdTech;Founder+of+Takhet%2B+%E2%80%94+AI+telemedicine+platform" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=baimukhanalan&color=6366f1&style=flat-square&label=Profile+views" alt="views" />
 </p>
 
 ---
@@ -38,7 +33,7 @@ I'm a product engineer and founder from Kazakhstan who takes AI products from **
 |---|---|:---:|
 | **[Takhet+](https://github.com/baimukhanalan/Takhet-v2.0)** | AI-assisted telemedicine & corporate-health platform — AI triage, consultations, medical records, enterprise pre-shift checks | [🌐 takhet.com](https://takhet.com) |
 | **[Ophtra 2.0](https://github.com/baimukhanalan/ophtra2.0)** | Premium ophthalmology-clinic platform — React + Vite, SEO prerender, ~600 E2E tests | [🌐 Demo](https://ophtra2.vercel.app) |
-| **[JOBFINDER](https://github.com/baimukhanalan/JOBFINDER)** | Automated job-application engine across 20+ ATS platforms — FastAPI + Playwright + AI | self-hosted |
+| **[JOBFINDER](https://github.com/baimukhanalan/JOBFINDER)** | Automated job-application engine across 15+ ATS platforms — FastAPI + Playwright + AI | self-hosted |
 | **[Muslingo](https://github.com/baimukhanalan/musingo)** | Cross-platform (Flutter) AI tutor for the Quran, Arabic & Islamic basics | mobile app |
 | **[Simplify](https://github.com/baimukhanalan/simplify-platform)** | Autonomous AI career agent — one profile runs a 60-day job campaign | [🌐 Demo](https://simplify-career-landing.vercel.app) |
 | **[Lumen](https://github.com/baimukhanalan/Lumen)** | macOS/Windows menu-bar app that keeps a laptop awake only while AI agents run | [🌐 Site](https://baimukhanalan.github.io/Lumen/) |
