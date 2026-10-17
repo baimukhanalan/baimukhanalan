@@ -31,14 +31,15 @@ I'm a product engineer and founder from Kazakhstan who takes AI products from **
 
 | Project | What it is | Live |
 |---|---|:---:|
-| **[Takhet+](https://github.com/baimukhanalan/Takhet-v2.0)** | AI-assisted telemedicine & corporate-health platform — AI triage, consultations, medical records, enterprise pre-shift checks | [🌐 takhet.com](https://takhet.com) |
-| **[Ophtra 2.0](https://github.com/baimukhanalan/ophtra2.0)** | Premium ophthalmology-clinic platform — React + Vite, SEO prerender, ~600 E2E tests | [🌐 Demo](https://ophtra2.vercel.app) |
-| **[JOBFINDER](https://github.com/baimukhanalan/JOBFINDER)** | Automated job-application engine across 15+ ATS platforms — FastAPI + Playwright + AI | self-hosted |
-| **[Muslingo](https://github.com/baimukhanalan/musingo)** | Cross-platform (Flutter) AI tutor for the Quran, Arabic & Islamic basics | mobile app |
+| **Takhet+** <sub>(code private)</sub> | AI-assisted telemedicine & corporate-health platform — AI triage, consultations, medical records, enterprise pre-shift checks | [🌐 takhet.com](https://takhet.com) |
+| **Ophtra 2.0** <sub>(code private)</sub> | Premium ophthalmology-clinic platform — React + Vite, SEO prerender, ~600 E2E tests | [🌐 Live](https://ophtra2.vercel.app) |
 | **[Simplify](https://github.com/baimukhanalan/simplify-platform)** | Autonomous AI career agent — one profile runs a 60-day job campaign | [🌐 Demo](https://simplify-career-landing.vercel.app) |
+| **[AI Dos](https://github.com/baimukhanalan/ai-dos)** | AI clinic receptionist — 24/7 multilingual voice, SIP telephony, scheduling | [🌐 Demo](https://ai-dos-sage.vercel.app) |
+| **[WIMAX](https://github.com/baimukhanalan/wimax)** | Voice-first productivity OS — turn speech into tasks, habits & knowledge | [🌐 Demo](https://cognitive-mirror-two.vercel.app) |
 | **[Lumen](https://github.com/baimukhanalan/Lumen)** | macOS/Windows menu-bar app that keeps a laptop awake only while AI agents run | [🌐 Site](https://baimukhanalan.github.io/Lumen/) |
 
-<sub>More: <a href="https://github.com/baimukhanalan/ai-dos">AI Dos</a> — AI clinic receptionist (<a href="https://ai-dos-sage.vercel.app">demo</a>) · <a href="https://github.com/baimukhanalan/wimax">WIMAX</a> — voice-first productivity OS (<a href="https://cognitive-mirror-two.vercel.app">demo</a>) · <a href="https://github.com/baimukhanalan/Optispend-mobile-">OptiSpend</a> — family finance AI · <a href="https://github.com/baimukhanalan/aegis-trade">Aegis Trade</a> — safety-first trading control center · <a href="https://github.com/baimukhanalan/otklik">Otklik</a> — one-click hh.kz apply · <a href="https://github.com/baimukhanalan/reminder-bot">reminder-bot</a> · <a href="https://github.com/baimukhanalan/website-copier-HTTrack">website-copier-HTTrack</a>.</sub>
+<sub>More public work: <a href="https://github.com/baimukhanalan/JurtGo">JurtGo</a> — ride-hailing super-app prototype (<a href="https://jurtgo.vercel.app">demo</a>) · <a href="https://github.com/baimukhanalan/Optispend-mobile-">OptiSpend</a> — family finance AI · <a href="https://github.com/baimukhanalan/bai-prod">BAI.PROD</a> — Telegram academy platform · <a href="https://github.com/baimukhanalan/reminder-bot">reminder-bot</a> — voice Telegram assistant · <a href="https://github.com/baimukhanalan/website-copier-HTTrack">website-copier-HTTrack</a> — SPA site-mirroring CLI.<br/>
+Also built <sub>(code private)</sub>: JOBFINDER — automated multi-ATS job-application engine · Muslingo — Flutter AI Quran/Arabic tutor · Aegis Trade — safety-first crypto trading control center.</sub>
 
 ---
 
