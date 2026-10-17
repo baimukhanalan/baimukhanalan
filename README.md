@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/baimukhanalan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=I+design+and+ship+full-stack+AI+products+end-to-end;Healthtech+%7C+Fintech+%7C+Careers+%7C+EdTech;Founder+of+Takhet%2B+%E2%80%94+AI+telemedicine+platform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=I+design+and+ship+full-stack+AI+products+end-to-end;Healthtech+%7C+Fintech+%7C+Careers+%7C+EdTech;Founder+of+Simplify+%26+Takhet%2B" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,6 +15,7 @@
 
 I'm a product engineer and founder from Kazakhstan who takes AI products from **idea → design → full-stack build → live deployment**. Over the last year I've shipped platforms across **healthtech, fintech, careers, and ed-tech** — from an AI telemedicine platform with real pilots to an autonomous AI career agent and a multi-ATS job-application engine.
 
+- 🚀 **Founder of [Simplify](https://wesimplify.works)** — an autonomous AI career agent that runs a 60-day job campaign for you (discovery, tailored applications, interview copilot, offer desk).
 - 🩺 **Founder of [Takhet+](https://takhet.com)** — an AI-assisted telemedicine & corporate-health platform (PepsiCo pilot, 150+ specialists, 🥉 3rd place + ₸1M at Shoqan Startups).
 - 🛠️ I work end-to-end: **TypeScript/React/Next**, **NestJS/FastAPI/Node**, **Flutter**, **Swift**, with **PostgreSQL**, **Supabase/Prisma**, and LLM integrations.
 - 🚀 I like shipping — most of what I build goes live.
@@ -31,9 +32,9 @@ I'm a product engineer and founder from Kazakhstan who takes AI products from **
 
 | Project | What it is | Live |
 |---|---|:---:|
+| **[Simplify](https://github.com/baimukhanalan/simplify-platform)** | Autonomous AI career agent — one Career Profile runs a 60-day job campaign (discovery → apply → interview copilot → offers) | [🌐 Demo](https://wesimplify.works) |
 | **Takhet+** <sub>(code private)</sub> | AI-assisted telemedicine & corporate-health platform — AI triage, consultations, medical records, enterprise pre-shift checks | [🌐 takhet.com](https://takhet.com) |
 | **Ophtra 2.0** <sub>(code private)</sub> | Premium ophthalmology-clinic platform — React + Vite, SEO prerender, ~600 E2E tests | [🌐 Live](https://ophtra2.vercel.app) |
-| **[Simplify](https://github.com/baimukhanalan/simplify-platform)** | Autonomous AI career agent — one profile runs a 60-day job campaign | [🌐 Demo](https://simplify-career-landing.vercel.app) |
 | **[AI Dos](https://github.com/baimukhanalan/ai-dos)** | AI clinic receptionist — 24/7 multilingual voice, SIP telephony, scheduling | [🌐 Demo](https://ai-dos-sage.vercel.app) |
 | **[WIMAX](https://github.com/baimukhanalan/wimax)** | Voice-first productivity OS — turn speech into tasks, habits & knowledge | [🌐 Demo](https://cognitive-mirror-two.vercel.app) |
 | **[Lumen](https://github.com/baimukhanalan/Lumen)** | macOS/Windows menu-bar app that keeps a laptop awake only while AI agents run | [🌐 Site](https://baimukhanalan.github.io/Lumen/) |
