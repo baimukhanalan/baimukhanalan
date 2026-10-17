@@ -38,7 +38,7 @@ I'm a product engineer and founder from Kazakhstan who takes AI products from **
 | **[Simplify](https://github.com/baimukhanalan/simplify-platform)** | Autonomous AI career agent — one profile runs a 60-day job campaign | [🌐 Demo](https://simplify-career-landing.vercel.app) |
 | **[Lumen](https://github.com/baimukhanalan/Lumen)** | macOS/Windows menu-bar app that keeps a laptop awake only while AI agents run | [🌐 Site](https://baimukhanalan.github.io/Lumen/) |
 
-<sub>More: AI Dos — AI clinic receptionist (<a href="https://ai-dos-sage.vercel.app">demo</a>) · WIMAX — voice-first productivity OS (<a href="https://cognitive-mirror-two.vercel.app">demo</a>) · OptiSpend — family finance AI · Aegis Trade — safety-first trading control center · website-copier-HTTrack — SPA site-mirroring CLI.</sub>
+<sub>More: <a href="https://github.com/baimukhanalan/ai-dos">AI Dos</a> — AI clinic receptionist (<a href="https://ai-dos-sage.vercel.app">demo</a>) · <a href="https://github.com/baimukhanalan/wimax">WIMAX</a> — voice-first productivity OS (<a href="https://cognitive-mirror-two.vercel.app">demo</a>) · <a href="https://github.com/baimukhanalan/Optispend-mobile-">OptiSpend</a> — family finance AI · <a href="https://github.com/baimukhanalan/aegis-trade">Aegis Trade</a> — safety-first trading control center · <a href="https://github.com/baimukhanalan/otklik">Otklik</a> — one-click hh.kz apply · <a href="https://github.com/baimukhanalan/reminder-bot">reminder-bot</a> · <a href="https://github.com/baimukhanalan/website-copier-HTTrack">website-copier-HTTrack</a>.</sub>
 
 ---
 
