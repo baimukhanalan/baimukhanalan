@@ -34,6 +34,8 @@ I'm a product engineer and founder from Kazakhstan who takes AI products from **
 |---|---|:---:|
 | **[Simplify](https://github.com/baimukhanalan/simplify-platform)** | Autonomous AI career agent — one Career Profile runs a 60-day job campaign (discovery → apply → interview copilot → offers) | [🌐 Demo](https://wesimplify.works) |
 | **Takhet+** <sub>(code private)</sub> | AI-assisted telemedicine & corporate-health platform — AI triage, consultations, medical records, enterprise pre-shift checks | [🌐 takhet.com](https://takhet.com) |
+| **[Extravity](https://github.com/baimukhanalan/extravity)** | OS for extracurricular opportunities for students in Kazakhstan — 579 live listings, eligibility & match scoring, 5 role portals, Python ingestion parser | [🌐 Demo](https://extracurriculars-kz.vercel.app) |
+| **[ZERIVE](https://github.com/baimukhanalan/zerive)** | Preventive-health app — one blood draw, 73 biomarkers, ZERIVE Score & biological age, personal plan. Expo (iOS/Android/PWA) + Neon | [🌐 App](https://zerive-app.vercel.app) |
 | **Ophtra 2.0** <sub>(code private)</sub> | Premium ophthalmology-clinic platform — React + Vite, SEO prerender, ~600 E2E tests | [🌐 Live](https://ophtra2.vercel.app) |
 | **[AI Dos](https://github.com/baimukhanalan/ai-dos)** | AI clinic receptionist — 24/7 multilingual voice, SIP telephony, scheduling | [🌐 Demo](https://ai-dos-sage.vercel.app) |
 | **[WIMAX](https://github.com/baimukhanalan/wimax)** | Voice-first productivity OS — turn speech into tasks, habits & knowledge | [🌐 Demo](https://cognitive-mirror-two.vercel.app) |
